@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:vine"
+    },
+    "B": {
+      "item": "minecraft:azure_bluet"
+    },
+    "C": {
+      "item": "minecraft:blue_orchid"
+    },
+    "D": {
+      "item": "petal:red_pansy"
+    },
+    "E": {
+      "item": "petal:lime_mum"
+    },
+    "F": {
+      "item": "petal:marigold"
+    },
+    "G": {
+      "item": "petal:magenta_cosmos"
+    },
+    "H": {
+      "item": "petal:blue_hyacinth"
+    },
+    "I": {
+      "item": "petal:white_windflower"
+    }
+  },
+  "pattern": [
+    "BCD",
+    "EAF",
+    "GHI"
+  ],
+  "result": {
+    "item": "petal:flower_crown"
+  },
+  "show_notification": true
+}
