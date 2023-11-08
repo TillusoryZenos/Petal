@@ -1,0 +1,39 @@
+{
+  "criteria": {
+    "has_flower_crown": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "petal:flower_crown"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "petal:textures/item/flower_crown.png",
+    "description": {
+      "text": "Obtain a flower crown!"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "petal:flower_crown",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Flower Power!"
+    }
+  },
+  "requirements": [
+    [
+      "has_flower_crown"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
