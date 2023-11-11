@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "petal:red_pansy",
+    "petal:lime_mum",
+    "petal:marigold",
+    "petal:blue_hyacinth",
+    "petal:white_windflower",
+    "petal:magenta_cosmos"
+  ]
+}
