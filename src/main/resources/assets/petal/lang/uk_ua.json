@@ -1,0 +1,12 @@
+{
+  "item.petal.flower_crown": "Квітковий вінок",
+
+  "block.petal.red_pansy": "Фіалка",
+  "block.petal.lime_mum": "Хризантема",
+  "block.petal.marigold": "Чорнобривець",
+  "block.petal.magenta_cosmos": "Космея",
+  "block.petal.blue_hyacinth": "Гіацінт",
+  "block.petal.white_windflower": "Анемона",
+
+  "itemgroup.petal": "Petal"
+}
